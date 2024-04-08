@@ -1,5 +1,6 @@
 <x-layout>
-<!-- start of titlt -->
+<!-- start of title -->
+    <div class="donors-home">
 <div class="word1">
     <h1 data-translate="donor">Donors</h1>
 </div>
@@ -25,8 +26,6 @@
                 <td>{{ $donor->age }}</td>
                 <td>{{ $donor->gender }}</td>
                 <td>{{ $donor->date }}</td>
-                <td><button class="btn btn-success">Edit</button></td>
-                <td><button class="btn btn-destroy">destroy</button></td>
             </tr>
         @endforeach
     @else
@@ -46,7 +45,7 @@
         </button>
     </a>
 </div>
-
+    </div>
 <!-- end of find donor btn -->
 </x-layout>
 

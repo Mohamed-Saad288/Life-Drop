@@ -1,4 +1,5 @@
 <x-admin-layout>
+    <div class="donors-home">
 <div class="word1">
     <h1>contact us</h1>
 </div>
@@ -36,5 +37,6 @@
 </table>
     <div style="display: flex;align-items: center;justify-content: space-around;margin-top: 30px">
         {{ $contacts->links() }}
+    </div>
     </div>
 </x-admin-layout>

@@ -1,5 +1,6 @@
 <x-layout>
     <!-- title -->
+    <div class="donor-home">
     <div class="word2">
         <h1 data-translate="donate">Donate Now</h1>
     </div>
@@ -111,4 +112,5 @@
         </div>
     </form>
     <!-- end of form -->
+    </div>
 </x-layout>

@@ -109,7 +109,6 @@ Route::get('/admin',[AdminController::class,'home'])
 
 
 
-
 // Get Contacts Table
 Route::get('/contacts-admin',[ContactController::class,'admin'])
     ->middleware('admin')

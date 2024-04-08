@@ -140,7 +140,6 @@ td {
     box-shadow: none !important;
 }
 .send-btn button{
-    padding: 15px 5px;
     border: 0;
     margin: 25px auto;
     width: 120px;
@@ -165,6 +164,7 @@ td {
     width: 240px;
     border-radius: 15px;
     background-color: brown;
+    margin-bottom: -2px;
 }
 #btn-send:hover{
     color: brown;

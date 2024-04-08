@@ -1,5 +1,6 @@
 <x-layout>
     <!-- start of title -->
+    <div class="donors-home">
     <div class="word1">
         <h1 data-translate="sign-find">Find Doner</h1>
     </div>
@@ -116,4 +117,5 @@
         <!-- end of send btn -->
 
     </form>
+    </div>
 </x-layout>

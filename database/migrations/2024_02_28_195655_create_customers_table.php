@@ -17,7 +17,7 @@ return new class extends Migration
             $table->string('blood_type');
             $table->string('address');
             $table->string('id_image')->nullable();
-            $table->integer('phone')->unique();
+            $table->string('phone')->unique();
             $table->integer('age');
             $table->string('gender');
             $table->string('reason');

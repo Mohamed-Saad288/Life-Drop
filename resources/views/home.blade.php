@@ -3,7 +3,8 @@
 
   @include('__home-section');
 
-<!-- end Home Section -->
+
+    <!-- end Home Section -->
 
 <!-- About us Section -->
 

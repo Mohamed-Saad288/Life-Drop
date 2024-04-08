@@ -95,7 +95,7 @@
 {{$slot}}
 
 <!-- Footer -->
-<footer class="pt-4 mt-5 text-center text-lg-start bg-body-tertiary text-muted">
+<footer class="pt-4 mt-1 text-center text-lg-start bg-body-tertiary text-muted">
     <!-- Section: Links  -->
     <section class="">
         <div class="container text-center text-md-start mt-5">
